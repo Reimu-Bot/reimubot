@@ -1,8 +1,8 @@
-name: "Pianfan's blog"
-description: "翩帆的个人技术博客"
+name: "灵梦Bot"
+description: "灵梦Bot的个人主页"
 
-avatar: https://pianfan.github.io/images/avatar.jpg
-favicon: https://pianfan.github.io/images/favicon.ico
+avatar: https://reimu-bot.github.io/images/avatar.jpg
+favicon: https://reimu-bot.github.io/images/favicon.ico
 
 navigation:
   - name: 首页
@@ -18,16 +18,16 @@ excerpt_separator: <!-- more -->
 
 footer-links:
   zhihu: 
-  email: xiongyunhan@outlook.com
+  email: tomyonlystar@vip.qq.com
   facebook:
-  github: pianfan
+  github: reimu-bot
   rss: # just type anything here for a working RSS icon
   twitter: 
   youtube:
 
 footer-text: Copyright (c) 2024 Pianfan
 
-url: https://pianfan.github.io
+url: https://reimu-bot.github.io
 
 permalink: /:title/
 paginate_path: /page:num/
