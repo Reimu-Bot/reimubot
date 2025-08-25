@@ -1,3 +1,3 @@
-# pianfan.github.io
+# 欢迎添加[灵梦Bot](https://reimu-bot.github.io/reimubot/user_manual/)
 
-My Personal Blog via GitHub
+一个QQBOT
