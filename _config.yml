@@ -25,9 +25,9 @@ footer-links:
   twitter: 
   youtube:
 
-footer-text: Copyright (c) 2024 Pianfan
+footer-text: Copyright (c) 2025 ReimuBot
 
-url: https://reimu-bot.github.io
+url: https://reimu-bot.github.io/reimubot
 
 permalink: /:title/
 paginate_path: /page:num/
